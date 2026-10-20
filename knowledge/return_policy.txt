@@ -1,0 +1,18 @@
+E-commerce Store Return Policy
+
+1. Return Window
+Customers can request a return within 7 days of receiving their order.
+
+2. Product Condition
+Products must be unused and returned in their original packaging. Products that are damaged by the customer may not qualify for a return.
+
+3. Refund Processing
+Once a returned product is received and inspected, approved refunds are processed within 5–7 business days.
+
+4. Non-Returnable Products
+Personal-care products and customized items cannot be returned unless they arrive damaged or defective.
+
+5. How to Request a Return
+Customers should contact customer support with their order number and reason for the return.
+
+Important: This is sample policy content for development and testing, not a verified real store policy.

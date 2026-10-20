@@ -1,0 +1,18 @@
+E-commerce Store Shipping Policy
+
+1. Standard Delivery
+Standard delivery takes 3–5 business days after an order is dispatched.
+
+2. Express Delivery
+Express delivery takes 1–2 business days where this service is available.
+
+3. Delivery Charges
+Shipping charges depend on the delivery location and the selected shipping service. The exact fee is shown at checkout.
+
+4. Order Tracking
+Customers can track dispatched orders using the tracking information provided by the store.
+
+5. Delays
+Delivery may take longer because of weather, public holidays, or courier service disruptions. Customers should contact support if their order is significantly delayed.
+
+Important: This is sample policy content for development and testing, not a verified real store policy.
